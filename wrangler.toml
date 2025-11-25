@@ -1,4 +1,4 @@
-name = "perlou-web-chat"
+name = "webchat"
 compatibility_date = "2025-11-25"
 
 pages_build_output_dir = "./.vercel/output/static"
